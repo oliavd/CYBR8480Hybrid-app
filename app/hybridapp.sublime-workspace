@@ -1,0 +1,603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"on",
+				"onSuccess\tfn "
+			],
+			[
+				"camera",
+				"cameraTakePict\tfn "
+			],
+			[
+				"camer",
+				"cameraTakePict\tfn "
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"requ",
+				"requireAuthentication"
+			],
+			[
+				"api",
+				"apiAuthRouter"
+			],
+			[
+				"filter",
+				"filteredRentals"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"pro",
+				"propertyType"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"as",
+				"assert"
+			],
+			[
+				"wik",
+				"wikipedia"
+			],
+			[
+				"co",
+				"commons"
+			],
+			[
+				"w",
+				"wikimedia"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"sha",
+				"sha1_modified\tsha1_modified"
+			],
+			[
+				"keye",
+				"keyedSha1\tkeyedSha1"
+			],
+			[
+				"orig",
+				"original_message"
+			],
+			[
+				"key",
+				"key_message\t"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"str",
+				"strxor"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "components/accelerometer-display.js",
+			"settings":
+			{
+				"buffer_size": 1260,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/take-picture.js",
+			"settings":
+			{
+				"buffer_size": 835,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/picture-capture.hbs",
+			"settings":
+			{
+				"buffer_size": 170,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/components/take-picture.hbs",
+			"settings":
+			{
+				"buffer_size": 122,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/accelerometer.hbs",
+			"settings":
+			{
+				"buffer_size": 217,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/application.hbs",
+			"settings":
+			{
+				"buffer_size": 44,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/oliavd/Desktop/secureMobileDev/CYBR8480labs/hybridapp",
+		"/Users/oliavd/Desktop/secureMobileDev/CYBR8480labs/hybridapp/app",
+		"/Users/oliavd/Desktop/secureMobileDev/CYBR8480labs/hybridapp/app/components",
+		"/Users/oliavd/Desktop/secureMobileDev/CYBR8480labs/hybridapp/app/templates",
+		"/Users/oliavd/Desktop/secureMobileDev/CYBR8480labs/hybridapp/app/templates/components"
+	],
+	"file_history":
+	[
+		"/Users/oliavd/Desktop/secureMobileDev/CYBR8480labs/hybridapp/app/templates/components/accelerometer-display.hbs",
+		"/Users/oliavd/Desktop/secureMobileDev/CYBR8480labs/hybridapp/app/router.js",
+		"/Users/oliavd/Desktop/secureMobileDev/CYBR8480labs/hybridapp/app/routes/picture-capture.js",
+		"/Users/oliavd/Desktop/secureMobileDev/CYBR8480labs/hybridapp/app/templates/application.hbs",
+		"/Users/oliavd/Library/Application Support/Sublime Text 3/Packages/User/Tern.sublime-settings",
+		"/Users/oliavd/Desktop/secureMobileDev/CYBR8480labs/hybridapp/app/routes/index.js",
+		"/Users/oliavd/Desktop/secureMobileDev/CYBR8480labs/hybridapp/corber/cordova/platforms/android/build.gradle",
+		"/Users/oliavd/Desktop/secureMobileDev/CYBR8480labs/hybridapp/corber/cordova/www/index.html",
+		"/Users/oliavd/Documents/advo_workspace/api/api/models/Profile.js",
+		"/Users/oliavd/Documents/advo_workspace/api/api/package.json",
+		"/Users/oliavd/Documents/advo_workspace/api/api/Dockerfile",
+		"/Users/oliavd/Documents/advo_workspace/api/api/app.js",
+		"/Users/oliavd/Documents/advo_workspace/api/api/app/config/route.config.json",
+		"/Users/oliavd/Desktop/modNorm/modularnorms/examples/newExamples/apache2_oli.html",
+		"/Users/oliavd/Documents/advo_workspace/api/api/.dockerignore",
+		"/Users/oliavd/Documents/advo_workspace/api/api/.git/COMMIT_EDITMSG",
+		"/Users/oliavd/Documents/advo_workspace/database/database/tableCreationUpdated.sql",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/tests/integration/components/rental-listing-test.js",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/tests/acceptance/list-rentals-test.js",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/app/app.js",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/app/templates/contact.hbs",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/app/routes/index.js",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/app/templates/application.hbs",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/app/templates/about.hbs",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/app/adapters/application.js",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/mirage/config.js",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/app/routes/about.js",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/app/router.js",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/app/index.html",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/ember-cli-build.js",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/package.json",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/app/resolver.js",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/app/styles/app.css",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/super-rentals/public/robots.txt",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/ember-quickstart/app/components/people-lists.js",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/ember-quickstart/app/templates/components/people-lists.hbs",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/ember-quickstart/app/templates/scientists.hbs",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/ember-quickstart/app/routes/scientists.js",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/ember-quickstart/app/routes/programmers.js",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/ember-quickstart/app/templates/programmers.hbs",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/ember-quickstart/app/templates/application.hbs",
+		"/Users/oliavd/Desktop/WebDev/emberWorkspace/ember-quickstart/app/app.js",
+		"/Users/oliavd/Desktop/modNorm/modularnorms/simpleserver/README.md",
+		"/Users/oliavd/Documents/advo_workspace/database/database/table_creation.sql",
+		"/Users/oliavd/Documents/advo_workspace/database/notes/if its a subscription based model, we can use mayb",
+		"/Users/oliavd/Documents/sandbox/postgreQSL/Dockerfile",
+		"/Users/oliavd/Desktop/modNorm/modularnorms/README.md",
+		"/Users/oliavd/Documents/sandbox/flask-app/Dockerfile",
+		"/Users/oliavd/Documents/sandbox/Dockerfile",
+		"/Users/oliavd/Desktop/modNorm/modularnorms/examples/yourlicense.json",
+		"/Users/oliavd/Desktop/modNorm/modularnorms/examples/hipaalite.json",
+		"/Users/oliavd/Desktop/modNorm/modularnorms/examples/hipaa.json",
+		"/Users/oliavd/Desktop/modNorm/modularnorms/examples/agpl.json",
+		"/Users/oliavd/Desktop/modNorm/modularnorms/examples/agpl-val.json",
+		"/Users/oliavd/Desktop/modNorm/modularnorms/examples/agpl.svg",
+		"/Users/oliavd/Desktop/SoftwareAssuranceProject/Requirements-for-Software-Security-Engineering/Code_Review/addup.md",
+		"/Users/oliavd/Desktop/SoftwareAssuranceProject/Requirements-for-Software-Security-Engineering/Code_Review/Report.md",
+		"/Users/oliavd/Desktop/SoftwareAssuranceProject/Requirements-for-Software-Security-Engineering/.git/MERGE_MSG",
+		"/Users/oliavd/Desktop/HW3/verify.py",
+		"/Users/oliavd/Desktop/HW3/attack.py",
+		"/Users/oliavd/Desktop/HW3/sha1Implementation.py",
+		"/Users/oliavd/Google Drive UNO/Software Assurance/privsep.c",
+		"/Users/oliavd/Desktop/cloner/handiestman.com/index.html",
+		"/Users/oliavd/Documents/python_Src/HW3_Distributed_System/test.py",
+		"/Users/oliavd/Documents/python_Src/HW3_Distributed_System/keyed_sha1.py",
+		"/Users/oliavd/Documents/python_Src/HW3_Distributed_System/sha1_length_extension_attack.py",
+		"/Users/oliavd/Documents/genCipherText.py",
+		"/Users/oliavd/Documents/xor.py",
+		"/Users/oliavd/Documents/python_Src/argparser.py",
+		"/Users/oliavd/Documents/python_Src/portScanner.py",
+		"/Users/oliavd/Documents/python_Src/zipFileCrack.py",
+		"/Users/oliavd/Google Drive UNO/Computer Forensics/File Recovery by Type.log",
+		"/Users/oliavd/Google Drive UNO/Computer Forensics/scalpel.conf",
+		"/Users/oliavd/Google Drive UNO/Computer Forensics/File Recovery by Type.pdf",
+		"/Users/oliavd/Google Drive UNO/Computer Forensics/scalpel.pdf"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/oliavd/Desktop/secureMobileDev/CYBR8480labs/hybridapp"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "components/accelerometer-display.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								543,
+								543
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "components/take-picture.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 835,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "templates/picture-capture.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/components/take-picture.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "templates/accelerometer.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "templates/application.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.540174856138,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -7,6 +7,12 @@ const Router = EmberRouter.extend({
 });
 
 Router.map(function() {
+  this.route('accelerometer',{path:'/'});
+  this.route('picture-capture');
+  
 });
 
 export default Router;
+
+
+ 

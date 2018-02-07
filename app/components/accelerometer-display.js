@@ -14,6 +14,7 @@ export default Component.extend({
     this.updateAccelData(this)
 
   },
+
   updateAccelData(component){
     later(function(){
       //wrapper to preserve binding satistfaction
@@ -24,7 +25,13 @@ export default Component.extend({
             component.set('x', acceleration.x);
             component.set('y', acceleration.y);
             component.set('z', acceleration.z);
+
+           
             console.log("accel vals: x: "+ acceleration.x+ " y: "+acceleration.y+" z: "+acceleration.z+" t: "+ Date.now());
+
+
+
+
         }, function (error) {//error callback
             console.log('error: ' + error);
         });
